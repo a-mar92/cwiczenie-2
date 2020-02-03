@@ -1,0 +1,1 @@
+ to jest edycja tego pliku przez komendę vi plik1.txt z git wiersz poleceń
